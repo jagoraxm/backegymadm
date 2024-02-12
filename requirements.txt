@@ -1,4 +1,4 @@
 Flask
-gunicorn
+uvicorn
 pymongo
 flask_cors
